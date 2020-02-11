@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE appconfig>
+        <appconfig>
+            -<rmi>
+               -<server>
+                 -<registry>
+                    <createregistry>yes</createregistry>
+                    <registryaddress>127.0.0.1</registryaddress>
+                    <registryport>25565</registryport>
+                  </registry>
+               </server>
+            -<client>
+                <policypath>/starting-monkey-to-human-path\src\PO74\Tokmakov\wdad\learn\xml\rmi\security.policy</policypath>
+                <usecodebaseonly>yes</usecodebaseonly>
+            </client>
+            <classprovider/>
+        </rmi>
+         -<datasource>
+            <classname/>
+            <drivertype> </drivertype>
+            <hostName/>
+            <port/>
+            <DBName>organization</DBName>
+            <user>root</user>
+            <pass/>
+        </datasource>
+        </appconfig>

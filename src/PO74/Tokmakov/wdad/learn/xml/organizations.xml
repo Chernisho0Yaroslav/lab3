@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><organization name="KVN">
+    <department name="Министерство здравохрания">
+        <employee firstname="Валентина" secondname="Григорьева">
+            <hiredate>2018-05-22</hiredate>
+            <salary>16999</salary>
+            <jobtitle value="secretary"/>
+        </employee>
+        <employee firstname="Екатерина" secondname="Скулкина">
+            <hiredate>2020-01-21</hiredate>
+            <salary>25002</salary>
+            <jobtitle value="head"/>
+        </employee>
+    </department>
+    
+    <department name="Министерство смеха">
+        <employee firstname="Светлана" secondname="Кот">
+            <hiredate>2020-01-21</hiredate>
+            <salary>20000</salary>
+            <jobtitle value="manager"/>
+        </employee>
+        <employee firstname="Валерий" secondname="Петров">
+            <hiredate>2019-01-21</hiredate>
+            <salary>15990</salary>
+            <jobtitle value="head"/>
+        </employee>
+    </department>
+
+    <department name="Министерство охраны труда">
+        <employee firstname="Динар" secondname="Дроздов">
+            <hiredate>2020-01-15</hiredate>
+            <salary>30000</salary>
+            <jobtitle value="engineer"/>
+        </employee>
+        <employee firstname="Игорь" secondname="Чернов">
+            <hiredate>2020-01-21</hiredate>
+            <salary>20000</salary>
+            <jobtitle value="assistant"/>
+        </employee>
+    </department>
+
+    <department name="Министерство питания">
+        <employee firstname="Ринат" secondname="Мухамедхянов">
+            <hiredate>2020-01-21</hiredate>
+            <salary>30000</salary>
+            <jobtitle value="manager"/>
+        </employee>
+        <employee firstname="Валерий" secondname="Леонтьев">
+            <hiredate>2020-01-21</hiredate>
+            <salary>160002</salary>
+            <jobtitle value="head"/>
+        </employee>
+    </department>
+
+</organization>
